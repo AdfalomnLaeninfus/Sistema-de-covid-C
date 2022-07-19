@@ -4,9 +4,7 @@
 
 int main ( void )
 {
-    PessoaInfo a;
-
-    a.data
+    menu();
 
     return 0;
 }

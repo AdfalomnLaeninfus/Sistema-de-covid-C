@@ -7,7 +7,7 @@
 #include <stdlib.h>
 
 #define endl puts("\n")
-#define screenCls system("cls || clear")
+#define screenCls printf("\033c")
 
 // Estrutura dos dados dos pacientes.
 typedef struct pessoaInfo
